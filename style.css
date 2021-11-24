@@ -1,0 +1,13 @@
+
+.task-to-do {
+    background-color: yellow;
+}
+.done {
+    background-color: green;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
